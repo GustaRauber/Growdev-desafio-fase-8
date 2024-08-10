@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>956410528518-rut41kclp6aokvd5cbc780ofemg1grqq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.956410528518-rut41kclp6aokvd5cbc780ofemg1grqq</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>956410528518-pfj0nqclitnmdffo3r3kkq3nqgu6adl3.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>Insert api key here</string>
+	<key>GCM_SENDER_ID</key>
+	<string>956410528518</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.socialLoginNotificationFase8</string>
+	<key>PROJECT_ID</key>
+	<string>fase8growdev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fase8growdev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:956410528518:ios:d941fb3dd1a2452a881487</string>
+</dict>
+</plist>
